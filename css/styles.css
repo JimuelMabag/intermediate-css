@@ -1,6 +1,5 @@
 .test-box {
     background: rgb(128, 128, 128);
-    display: inline-block;
     margin: 50px;
     width:  200px;
 }
@@ -12,7 +11,6 @@
 
 .test-box-sizing {
     box-sizing: border-box;
-    display: block;
     width: auto;
 }
 
