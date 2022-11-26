@@ -1,16 +1,2 @@
-.test-box {
-    background: rgb(128, 128, 128);
-    margin: 50px;
-    width:  200px;
-}
 
-.test-box-nosizing {
-    border: 10px solid black;
-    padding: 40px;
-}
-
-.test-box-sizing {
-    box-sizing: border-box;
-    width: auto;
-}
 
