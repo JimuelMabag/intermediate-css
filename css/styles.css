@@ -11,7 +11,7 @@
     border-color: black red green yellow;
 }
 
-.bio-box img {
+.bio-box >img {
     width: 100%;
 }
 
@@ -48,6 +48,16 @@
 }
 .social-list > li {
     display: inline-block;
+    background: lightgreen;
+    width: 3.5em;
+    height: 3.5em;
+    border-radius: 100%;
+    box-sizing: border-box;
+    padding: 1.25em;
+    font-size: 1em;
+    line-height: 1;
 }
-
+ .social-list a {
+    text-decoration: none;
+}
 
